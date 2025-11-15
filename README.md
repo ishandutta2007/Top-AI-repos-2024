@@ -10,10 +10,9 @@
 |6|[OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)|22.2k|Python|MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone|
 |7|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)|21.8k|Python|Python scraper based on AI|
 |8|[stitionai/devika](https://github.com/stitionai/devika)|19.5k|Python|Devika is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.|
-|9|[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)|17.8k|Python|Automate browser based workflows with AI.| 
-
-- https://github.com/bytedance/LatentSync
-- https://github.com/yoheinakajima/babyagi
+|9|[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)|17.8k|Python|Automate browser based workflows with AI.|
+|10|[bytedance/LatentSync](https://github.com/bytedance/LatentSync)|5.1k|Python|LatentSync: An End-to-End Lip-syncing Framework.|
+|11|[yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)|21.9k|Python|An AI-powered task management system.|
 
 
 
