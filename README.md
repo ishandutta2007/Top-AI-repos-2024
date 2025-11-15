@@ -13,3 +13,4 @@
 |9|[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)|17.8k|Python|Automate browser based workflows with AI.| 
 
 - https://github.com/bytedance/LatentSync
+- https://github.com/yoheinakajima/babyagi
